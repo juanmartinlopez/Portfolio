@@ -31,7 +31,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/tu-portfolio.git
-   cd tu-portfolio
+   git clone https://github.com/tu-usuario/tu-portfolio.git](https://github.com/juanmartinlopez/Portfolio.git
+   cd Portfolio
    npm install
    npm run dev
