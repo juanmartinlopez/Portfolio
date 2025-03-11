@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import '@fontsource-variable/roboto';
+@import '@fontsource-variable/comfortaa';
+
+@theme {
+  --color-background: #191D34;
+  --color-background-second: #E8E8E8;
+
+  --color-first: #000000;
+  --color-second: #191D34;
+  --color-second-dark: #034476;
+
+  --font-family-primary: 'Roboto', sans-serif;
+  --font-family-secundary: 'Comfortaa Variable', system-ui;
+}
