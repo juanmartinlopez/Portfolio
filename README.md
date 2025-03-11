@@ -1,12 +1,37 @@
-# React + Vite
+# Portfolio Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a mi portfolio personal! Este proyecto muestra mi experiencia, habilidades y proyectos como desarrollador Full Stack. Está diseñado para ser responsive y está disponible en dos idiomas: español e inglés.
 
-Currently, two official plugins are available:
+## Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Diseño moderno y responsive**: Adaptado para verse bien en dispositivos móviles, tablets y desktop.
+- **Multilenguaje**: Soporte para español e inglés usando `react-i18next`.
+- **Secciones destacadas**:
+  - **Perfil**: Información personal, habilidades y enlaces a redes sociales.
+  - **Proyectos**: Lista de proyectos destacados con enlaces al código y demos.
+  - **Tecnologías**: Lista de tecnologías que domino.
+  - **Formación**: Mi trayectoria educativa y cursos realizados.
+- **Botón de cambio de idioma**: Permite alternar entre español e inglés.
+- **Descarga de CV**: Enlace para descargar mi currículum en el idioma seleccionado.
 
-## Expanding the ESLint configuration
+## Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend**:
+  - React.js
+  - Tailwind CSS (para estilos)
+  - Vite (como bundler)
+- **Internacionalización**:
+  - react-i18next (para soporte multilenguaje)
+- **Iconos**:
+  - react-icons (para iconos de redes sociales y tecnologías)
+
+## Cómo ejecutar el proyecto
+
+Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/tu-usuario/tu-portfolio.git](https://github.com/juanmartinlopez/Portfolio.git
+   cd Portfolio
+   npm install
+   npm run dev
