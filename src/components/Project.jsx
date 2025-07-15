@@ -18,9 +18,9 @@ function Project() {
             name: "Casitas del Hornero",
             description: t("descriptionCasitasDelHornero"),
             image: casitadelhorneroimage,
-            urlCodeFront: "https://github.com/juanmaxx2/La-Casita-del-Hornero",
-            urlCodeBack: "https://github.com/EzeTorcetta/las-casitas-del-hornero-Back",
-            urlPage: "https://la-casita-del-hornero.vercel.app",
+            urlCodeFront: "https://github.com/juanmartinlopez/Casitas-del-Hornero-Client",
+            urlCodeBack: "https://github.com/juanmartinlopez/Casitas-del-Hornero-API",
+            urlPage: "https://casitas-del-hornero-client.vercel.app",
         },
     ];
 
